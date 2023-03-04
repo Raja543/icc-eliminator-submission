@@ -32,7 +32,7 @@ function Admin() {
       date: date,
       totalTickets: totalTickets,
     };
-    // Do something with the new match data
+    
   };
 
   return (
